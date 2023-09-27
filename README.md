@@ -1,5 +1,6 @@
 # F-S-Dynamics
-This repository contains the code and data used to generate the charts for the paper **First-stages dynamics of the immune system and cancer**. 
+This repository contains the code and data used to generate the charts for the paper [**First-stages dynamics of the immune system and cancer**](https://arxiv.org/abs/1602.06981) (Paper name has been updated). 
+
 All plots are generated from the jupyter notebook Plots.ipynb
 
 Data for multiple types of tumors from papers $^1$ and $^2$ can be found in the file lifetime.csv
