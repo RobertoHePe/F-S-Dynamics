@@ -1,5 +1,5 @@
 # F-S-Dynamics
-This repository contains the code and data used to generate the charts for the paper [**First-stages dynamics of the immune system and cancer**](https://arxiv.org/abs/1602.06981) (Paper name has been updated). 
+This repository contains the code and data used to generate the charts for the paper [**First-Stage Dynamics of the Immune System and Cancer**](https://www.mdpi.com/2673-9909/3/4/52) (Paper name has been updated). 
 
 All plots are generated from the jupyter notebook Plots.ipynb
 
